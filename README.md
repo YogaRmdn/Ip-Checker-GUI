@@ -3,27 +3,27 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]  
 
-## Deskripsi
-**IP Checker GUI** adalah aplikasi desktop sederhana berbasis **Tkinter** untuk mengecek alamat IP dari domain atau hostname tertentu.  
-Aplikasi ini memanfaatkan API publik untuk mengambil informasi IP, lalu menampilkannya langsung di jendela GUI dengan tampilan sederhana dan user friendly.  
+## Description
+**IP Checker GUI** is a simple Tkinter-based desktop application for checking the IP address of a specific domain or hostname.
+This application utilizes a public API to retrieve IP information and then displays it directly in a simple and user-friendly GUI window.
 
-Cocok digunakan untuk:
-- Belajar membuat GUI Python dengan Tkinter.  
-- Mengecek alamat IP dari domain.  
-- Latihan integrasi API sederhana ke aplikasi desktop.  
+Suitable for:
+- Learning to create Python GUIs with Tkinter.
+- Checking the IP address of a domain.
+- Practicing simple API integration into desktop applications.
 
-## Fitur
-- Input domain/hostname melalui GUI.  
-- Mendapatkan alamat IP target secara real-time.  
-- Menampilkan hasil di dalam aplikasi (tidak perlu terminal).  
-- Tombol **Clear** untuk membersihkan hasil pencarian.  
-- Ringan dan cross-platform (Linux, Windows, macOS).  
+## Features
+- Input domain/hostname via GUI.
+- Get the target IP address in real-time.
+- Display results within the application (no terminal required).
+- Clear button to clear search results.
+- Lightweight and cross-platform (Linux, Windows, macOS).
 
-## Prasyarat
-- Python 3.10 atau lebih baru  
-- Sistem operasi: Linux / macOS / Windows  
+## Prerequisites
+- Python 3.10 or later
+- Operating system: Linux / macOS / Windows 
 
-## Instalasi
+## How to use Tools
 ```bash
 git clone https://github.com/YogaRmdn/Ip-Checker-GUI
 cd Ip-Checker-GUI
